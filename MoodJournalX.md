@@ -4,7 +4,7 @@ This privacy policy applies to the MoodJournal X No Results app (hereby referred
 
 **Information Collection and Use**
 
-The Application does not gather precise information.
+The Application does not gather information.
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
