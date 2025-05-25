@@ -12,4 +12,4 @@ User Content: Any mood entries, notes, or data you input into the App ("User Con
 Accuracy: While MoodJournal aims to provide helpful tools for self-reflection, it is not a substitute for professional medical or mental health advice.
 
 ### 3. Contact Us
-If you have any questions about these Terms, please contact us at [Your Support Email Address, e.g., journalmoodpro@gmail.com].
+If you have any questions about these Terms, please contact us at journalmoodpro@gmail.com.
