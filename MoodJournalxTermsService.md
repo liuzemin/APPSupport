@@ -1,6 +1,6 @@
 **Terms of Service for MoodJournal App**
 
-**Effective Date: [June 01, 2025]**
+**Effective Date: [June 26, 2025]**
 
 This document ("Terms of Service" or "Terms") outlines the terms and conditions for using the MoodJournal mobile application ("the App"). The App is provided by Zemin Liu ("Service Provider," "we," "us," or "our") as a mobile service. By downloading, installing, accessing, or using the App, you ("User" or "you") agree to be bound by these Terms of Service and our Privacy Policy. If you do not agree to these terms, please do not use the App.
 
